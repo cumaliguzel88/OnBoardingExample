@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApp.MySplsh" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_app_weather</item>
+        <item name="postSplashScreenTheme">@style/Theme.OnBoarding</item>
+    </style>
+
+</resources>
